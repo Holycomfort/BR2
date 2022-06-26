@@ -1,0 +1,9 @@
+.DS_Store
+detection/GroupFree3D/logs/
+detection/GroupFree3D/scannet/scannet_train_detection_data_md40/
+detection/GroupFree3D/matterport/
+detection/Votenet/logs/
+detection/Votenet/scannet/scannet_train_detection_data_md40/
+detection/Votenet/scannet/xxwddd/
+detection/Votenet/matterport/matterport_train_detection_data_md40/
+detection/Votenet/matterport/matterport_train_detection_data_md40_obj_aug/

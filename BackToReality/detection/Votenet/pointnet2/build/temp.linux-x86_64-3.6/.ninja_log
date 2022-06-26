@@ -1,0 +1,10 @@
+# ninja log v5
+1	8287	1617798095572079670	/home/xxw/3D/TL_Object/votenet/pointnet2/build/temp.linux-x86_64-3.6/_ext_src/src/group_points_gpu.o	eaf8d8657a1daf49
+2	8394	1617798095680079672	/home/xxw/3D/TL_Object/votenet/pointnet2/build/temp.linux-x86_64-3.6/_ext_src/src/ball_query_gpu.o	27bf8e9da7df6295
+2	8459	1617798095744079673	/home/xxw/3D/TL_Object/votenet/pointnet2/build/temp.linux-x86_64-3.6/_ext_src/src/interpolate_gpu.o	a99b0399a35f5e37
+1	8751	1617798096036079678	/home/xxw/3D/TL_Object/votenet/pointnet2/build/temp.linux-x86_64-3.6/_ext_src/src/sampling_gpu.o	eea16dbb28f5214
+0	13820	1617798101104079768	/home/xxw/3D/TL_Object/votenet/pointnet2/build/temp.linux-x86_64-3.6/_ext_src/src/ball_query.o	3edf4fe0828682ca
+1	13948	1617798101232079770	/home/xxw/3D/TL_Object/votenet/pointnet2/build/temp.linux-x86_64-3.6/_ext_src/src/group_points.o	ae700a039b6d5657
+0	13971	1617798101256079771	/home/xxw/3D/TL_Object/votenet/pointnet2/build/temp.linux-x86_64-3.6/_ext_src/src/interpolate.o	b0d3478267933add
+0	14012	1617798101296079772	/home/xxw/3D/TL_Object/votenet/pointnet2/build/temp.linux-x86_64-3.6/_ext_src/src/sampling.o	a69267867a742527
+1	15625	1617798102908079800	/home/xxw/3D/TL_Object/votenet/pointnet2/build/temp.linux-x86_64-3.6/_ext_src/src/bindings.o	bdd4c33e2fea25a6

@@ -1,0 +1,5 @@
+# ninja log v5
+1	1747	1653018978030976896	/home/xxw/3D/BR2/BackToReality/detection/Votenet/OpenPCDet/build/temp.linux-x86_64-3.6/pcdet/ops/iou3d_nms/src/iou3d_nms_kernel.o	6a83eb8ed253d282
+0	10425	1653018986707051721	/home/xxw/3D/BR2/BackToReality/detection/Votenet/OpenPCDet/build/temp.linux-x86_64-3.6/pcdet/ops/iou3d_nms/src/iou3d_nms.o	7d25c2e28b7a7e6b
+0	10446	1653018986727051892	/home/xxw/3D/BR2/BackToReality/detection/Votenet/OpenPCDet/build/temp.linux-x86_64-3.6/pcdet/ops/iou3d_nms/src/iou3d_cpu.o	52aff7344a716158
+0	14312	1653018990591085214	/home/xxw/3D/BR2/BackToReality/detection/Votenet/OpenPCDet/build/temp.linux-x86_64-3.6/pcdet/ops/iou3d_nms/src/iou3d_nms_api.o	1481d48bb6c27042
